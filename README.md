@@ -1,2 +1,4 @@
-# Factorio-Server
-Friendly Public Factorio server
+factorio-calc
+=============
+
+For all your obsessive optimizing needs
